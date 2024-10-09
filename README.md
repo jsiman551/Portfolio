@@ -26,7 +26,11 @@ This website serves as an online portfolio to introduce myself as a web develope
 - **Bootstrap 5:** For responsive design and user interface components.
 
 ## License
+
 Template Name: Kelly
+
 Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
+
 Author: BootstrapMade.com
+
 License: https://bootstrapmade.com/license/
